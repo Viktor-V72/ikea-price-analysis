@@ -4,7 +4,7 @@ Python project analyzing IKEA furniture prices: data cleaning, hypothesis testin
 
 ## Data
 
-- IKEA product data (
+- IKEA product data
 
 ## Data cleaning
 
@@ -32,7 +32,7 @@ Compared three models using a scikit-learn Pipeline
 
 - Best model: Random Forest 
   **R² = 0.80** 
-- The model is stable
+- The model is stable (5-fold cross-validation)
 - Width is the most important feature (61% of total importance)
 
 ## Tools
